@@ -1,5 +1,4 @@
 import requests
-#import json
 
 def meuipjson_requests():
     url = 'https://ipinfo.io/json'
